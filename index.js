@@ -17,6 +17,10 @@ var array = []
   return array
 }
 
-function johnLennonFacts() {
+function johnLennonFacts(array) {
+
+  while (true) {
+    
+  }
 
 }
