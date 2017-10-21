@@ -33,6 +33,7 @@ function iLoveTheBeatles(n) {
   var array = []
   var i = 0
   do {
+    array = "I love the Beatles!"
     i++
   } while ( i < 15);
 
