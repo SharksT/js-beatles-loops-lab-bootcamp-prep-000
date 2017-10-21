@@ -31,6 +31,9 @@ return array
 
 function iLoveTheBeatles(n) {
   var array = []
-  
-  
+  var i = 0
+  do {
+    i++
+  } while ( i < 15);
+
 }
