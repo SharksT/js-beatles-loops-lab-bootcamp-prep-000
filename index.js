@@ -10,3 +10,7 @@ var array = []
   }
   return array
 }
+
+function johnLennonFacts() {
+  
+}
