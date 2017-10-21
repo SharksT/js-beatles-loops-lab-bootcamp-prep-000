@@ -34,6 +34,6 @@ function iLoveTheBeatles(n) {
   do {
     array = "I love the Beatles!"
     n++
-  } while ( i < 15);
+  } while ( n < 15);
 
 }
