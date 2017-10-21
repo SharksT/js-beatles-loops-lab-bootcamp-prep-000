@@ -30,5 +30,7 @@ return array
 }
 
 function iLoveTheBeatles(n) {
+  var array = []
+  
   
 }
