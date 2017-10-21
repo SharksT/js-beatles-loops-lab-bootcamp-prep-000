@@ -4,7 +4,7 @@ const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
 
 function theBeatlesPlay(musicians1,instruments1) {
 
-var array['']
+var array = []
   for (var i = 0; i < musicians.length; i++) {
     array.push( musicians1[i] +"plays"+ $instruments1[i])
   }
